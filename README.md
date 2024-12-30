@@ -12,7 +12,7 @@ Here you can find news, links, and other helpful information about Edowndotdownâ
   ![image](https://github.com/user-attachments/assets/9e193244-a766-439d-9c3d-36af3cab0916)
 
 
-  DMG Reader might get some updates https://github.com/Edowndotdown/DMG-Reader
+  Version 2.1.1 DMG Reader available https://github.com/Edowndotdown/DMG-Reader
 
   Little Robotics Opperating System DISCONTINUED - https://github.com/Edowndotdown/Little-Robotics-Operating-System
 
